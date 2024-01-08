@@ -1,0 +1,64 @@
+.imageReview {
+  background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+  background-size: cover;
+  height: 850vh;
+}
+
+.singleImage {
+  background-image: radial-gradient(circle farthest-corner at 24.7% 28.8%, rgba(247, 183, 29, 1) 1.9%, rgba(253, 239, 150, 1) 97.7%);
+  background-size: cover;
+  height: 150vh;
+}
+
+.updateImage {
+  /* background-image: linear-gradient( 138deg,  rgba(32,201,255,1) 36.7%, rgba(0,8,187,1) 84.4%, rgba(255,255,255,1) 119.7% ); */
+  background-color: rgba(32, 201, 255, 1);
+  background-size: cover;
+  height: 150vh;
+}
+
+.addimagepage {
+  background-color: rgba(248, 128, 168, 0.94);
+  background-size: cover;
+  height: 170vh;
+}
+
+.carditems{
+  width: 300px;
+  height: 150px;
+
+}
+
+.carditems:hover {
+  box-shadow: 0 0 10px rgba(62, 60, 60, 0.2);
+  transform: scale(1.02);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.cardimg{
+  width: 290px;
+  height: 250px;
+}
+
+
+.imagesingle{
+  width: 300px;
+
+}
+
+.imagesingle:hover {
+  box-shadow: 0 0 10px rgba(62, 60, 60, 0.2);
+  transform: scale(1.02);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+ span {
+  color: rgb(250, 37, 5);
+}
+
+.btn:hover{
+ 
+  width: 20%;
+}
+.viewmore:hover{
+  width: 50%;
+}
